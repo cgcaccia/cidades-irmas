@@ -1,0 +1,85 @@
+body {
+    background-color: #EEF7FF;
+}
+
+nav { /*Estilização do menu*/    
+    background-color: #4D869C;
+}
+
+ul { /*Estilização do menu*/    
+    text-align: center;           
+}
+
+li { /*Estilização do menu*/    
+    display: inline;
+    font-size: 25px;
+}
+
+a { /*Estilização do menu*/    
+    color: #EEF7FF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none; /*Remoção das linhas inferiores dos links*/
+}
+
+#divindex { /*Criação de div para englobar os elementos h1 e h2*/
+    color: #4D869C;
+    background-color: #CDE8E5;
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 25px;         
+}   
+
+hr {
+    border: none;
+    background-color: #4D869C;
+    height: 1px;
+}
+
+h1 {
+    color: #4D869C;
+    background-color: #CDE8E5;
+    display: inline-block;
+}
+
+h2 {
+    color: #4D869C;
+}
+
+p {
+    color: #4D869C;
+    font-size: x-large;
+}
+
+.legenda {
+    color: #4D869C;
+    font-size: x-small;
+}
+
+#msg{
+    width: 400px; 
+    height: 100px;
+}
+
+#links{
+    color: #4D869C;
+    background-color: #CDE8E5;
+    display: inline-block;
+    padding: 0px 0px;    
+}
+
+table {
+    width: 35%;
+    border-collapse: collapse;
+    color: #4D869C;
+}
+
+th, td {
+    border: 1px solid #4D869C;
+    padding: 6px;
+    text-align: center;
+}
+th {
+    background-color: #EEF7FF;
+}
